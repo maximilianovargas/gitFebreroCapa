@@ -3,7 +3,7 @@ public with sharing class Utils {
         return a +b + c;
     }
 
-    public static number otherMethod(number a, number b){
-        return a - b;
+    public static number otherMethod(number a, number b, number c){
+        return a - b - c;
     }
 }
